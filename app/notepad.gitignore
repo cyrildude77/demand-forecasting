@@ -1,0 +1,12 @@
+# Ignore data files
+data/raw/
+data/processed/*.csv
+
+# Ignore environment files
+.env
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db   
