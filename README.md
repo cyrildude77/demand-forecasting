@@ -51,8 +51,3 @@ streamlit run app/app.py
 
 Store Item Demand Forecasting Challenge (Kaggle)
 
----
-
-## 🔹 STEP 4: Initialize Git (LOCAL)
-
-In PowerShell, from your project root:
